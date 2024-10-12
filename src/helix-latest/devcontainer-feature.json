@@ -1,0 +1,10 @@
+{
+    "name": "Helix",
+    "id": "helix",
+    "version": "1.0.0",
+    "description": "A feature to install the Helix editor",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}
