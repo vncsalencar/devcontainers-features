@@ -1,0 +1,10 @@
+{
+    "name": "SQLx",
+    "id": "sqlx",
+    "version": "1.0.0",
+    "description": "A feature to install launchbadge/sqlx Rust crate",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/rust"
+    ]
+}
